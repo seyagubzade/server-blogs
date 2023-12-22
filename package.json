@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  },
+  "scripts": {
+    "start": "node server"
+  },
+  "name": "blog-server",
+  "version": "1.0.0",
+  "description": "home task",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC"
+}
